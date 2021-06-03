@@ -1,3 +1,4 @@
+<?php
 function convertidorPaises($codigo){
             switch ($codigo){
                 case 'AF':
@@ -998,3 +999,4 @@ function convertidorPaises($codigo){
                     break;
                 
             }
+?>
